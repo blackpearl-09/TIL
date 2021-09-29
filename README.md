@@ -40,4 +40,10 @@
 
 
 ## EDA
+[EDA_example][link]
+
+[link]: TIL/EDA/EDA_example.ipynb
+
+
+
 
