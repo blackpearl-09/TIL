@@ -4,6 +4,10 @@
 [link]: Torch,_SGD,_Dataset_class이론.ipynb
 
 ## ML & DL
+[ML (1) Imbalanced data 해결방법(1)][link]
+
+[link]: imbalanced_data해결방법(1)_SMOTE.ipynb
+
 [DL (1) 딥러닝_학습향상을_위한_고려사항1_Learning_Rate][link]
 
 [link]: 딥러닝_학습향상을_위한_고려사항1_Learning_Rate.ipynb
