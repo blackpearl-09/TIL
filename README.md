@@ -8,6 +8,7 @@
 
 [link]: imbalanced_data해결방법(1)_SMOTE.ipynb
 
+
 [DL (1) 딥러닝_학습향상을_위한_고려사항1_Learning_Rate][link]
 
 [link]: 딥러닝_학습향상을_위한_고려사항1_Learning_Rate.ipynb
