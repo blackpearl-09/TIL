@@ -4,7 +4,7 @@
 [link]: Torch,_SGD,_Dataset_class이론.ipynb
 
 ## ML & DL
-[ML (1) Imbalanced data_해결방법(1)][link]
+[ML (1) Imbalanced_data해결방법(1)_SMOTE.ipynb][link]
 
 [link]: imbalanced_data해결방법(1)_SMOTE.ipynb
 
