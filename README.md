@@ -3,10 +3,12 @@
 
 [link]: Torch,_SGD,_Dataset_class이론.ipynb
 
-## ML & DL
-[ML (1) Imbalanced_data해결방법(1)_SMOTE.ipynb][link]
 
-[link]: imbalanced_data해결방법(1)_SMOTE.ipynb
+## ML & DL
+[ML (1) Imbalanced_data해결방법(1)][link]
+
+[link]: Imbalanced_data해결방법(1)_SMOTE.ipynb
+
 
 [DL (1) 딥러닝_학습향상을_위한_고려사항1_Learning_Rate][link]
 
@@ -27,6 +29,7 @@
 [DL (5) Weight_initialization_2][link]
 
 [link]: Weight_initialization_2.ipynb
+
 
 
 ## Python 기초
