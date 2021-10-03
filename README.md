@@ -5,14 +5,14 @@
 
 
 ## ML & DL
-[ML (1) Imbalanced_data해결방법(1)][link]
+[ML (1) Imbalanced_data해결방법(1)][link1]
 
-[link]: Imbalanced_data해결방법(1)_SMOTE.ipynb
+[link1]: Imbalanced_data해결방법(1)_SMOTE.ipynb
 
 
-[DL (1) 딥러닝_학습향상을_위한_고려사항1_Learning_Rate][link]
+[DL (1) 딥러닝_학습향상을_위한_고려사항1_Learning_Rate][link2]
 
-[link]: 딥러닝_학습향상을_위한_고려사항1_Learning_Rate.ipynb
+[link2]: 딥러닝_학습향상을_위한_고려사항1_Learning_Rate.ipynb
 
 [DL (2) Activation_Function_1][link]
 
