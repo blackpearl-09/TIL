@@ -44,6 +44,11 @@
 
 [link9]: python_기초__while_문.ipynb
 
+[Python_환경 (4)][link10]
+
+[link10]: TIL/library_watermark.ipynb
+
+
 
 ## EDA
 [EDA_example][link10]
