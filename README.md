@@ -5,7 +5,7 @@
 
 
 ## ML & DL
-[ML (1) Imbalanced_data해결방법(1)][link1]
+[ML (1) Imbalanced_data 해결방법(1)][link1]
 
 [link1]: Imbalanced_data해결방법(1)_SMOTE.ipynb
 
