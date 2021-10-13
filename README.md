@@ -1,5 +1,5 @@
 ## 공모전 준비 
-[공모전준비를 위한 이론 공부_SDG 등][link]
+[공모전준비를 위한 이론 공부_SGD 등][link]
 
 [link]: Torch,_SGD,_Dataset_class이론.ipynb
 
