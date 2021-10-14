@@ -44,7 +44,7 @@
 
 [link9]: python_기초__while_문.ipynb
 
-[Python_환경tjfwjd (4)][link10]
+[Python_환경설정 (4)][link10]
 
 [link10]: TIL/library_watermark.ipynb
 
